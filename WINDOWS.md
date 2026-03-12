@@ -28,8 +28,6 @@ This eventually led to the release of Windows 1.0 in 1985, which ran on top of M
   
 <summary>System Error Codes (0-499)</summary>
 
-<details>
-  
 <summary>System Error Codes (500-999)</summary>
 
 <details>
