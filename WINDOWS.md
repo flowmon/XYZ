@@ -1,4 +1,4 @@
-<img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/250px-Windows_logo_and_wordmark_-_2021.svg.png" 
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/250px-Windows_logo_and_wordmark_-_2021.svg.png" width="120"> Windows Experiments
 
 - Truly the Operating System of kings! Windows computers NEVER break, and are super duper secure. Another thing Windows is good at is sarcasm. 
   Windows has its fair share of issues from Registry corruptions to random drivers dissapearing for no reason. This document will help with that. 
