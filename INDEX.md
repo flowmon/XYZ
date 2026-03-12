@@ -33,7 +33,94 @@ Much of my knowledge has been developed through practical experience, including 
 My goal is to contribute to organizations that value a strong security culture, continuous learning, and responsible innovation, while helping protect critical infrastructure from emerging cyber threats.
 
 ### 1.2 Career Interests
-#### BlueTeam
+
+<details>
+<summary>🔵 Blue Team (Defensive Security)</summary>
+
+I am particularly interested in defensive cybersecurity, including threat detection, security monitoring, incident response, and digital forensics. I enjoy analyzing attacker behavior and developing detection strategies to identify malicious activity within enterprise environments.
+
+<details>
+<summary>Focus Areas</summary>
+
+- SIEM monitoring  
+- Threat hunting  
+- Incident response  
+- Log analysis  
+- SOC operations  
+
+</details>
+
+</details>
+
+
+<details>
+<summary>🔴 Red Team (Offensive Security)</summary>
+
+Offensive security helps strengthen defensive capabilities by simulating real-world adversaries. I am interested in ethical penetration testing, vulnerability assessment, and adversarial simulation to identify weaknesses before malicious actors can exploit them.
+
+<details>
+<summary>Focus Areas</summary>
+
+- Penetration testing  
+- Privilege escalation  
+- Web application security  
+- Exploitation fundamentals  
+
+</details>
+
+</details>
+
+
+<details>
+<summary>🟣 Purple Team</summary>
+
+Purple team methodology bridges the gap between offensive and defensive security by encouraging collaboration between red and blue teams. I am interested in improving detection capabilities through adversary emulation and validation of defensive controls.
+
+<details>
+<summary>Focus Areas</summary>
+
+- Adversary emulation  
+- Detection engineering  
+- MITRE ATT&CK mapping  
+
+</details>
+
+</details>
+
+
+<details>
+<summary>🟡 Security Engineering</summary>
+
+Security engineering focuses on designing and implementing secure systems and infrastructure. I am interested in building secure environments, automating security processes, and integrating security into the development lifecycle.
+
+<details>
+<summary>Focus Areas</summary>
+
+- Secure architecture  
+- Security automation  
+- Infrastructure security  
+- DevSecOps practices  
+
+</details>
+
+</details>
+
+
+<details>
+<summary>🧪 Security Research</summary>
+
+I enjoy exploring emerging threats, analyzing vulnerabilities, and researching security techniques. Security research strengthens technical understanding and contributes to the broader cybersecurity community.
+
+<details>
+<summary>Focus Areas</summary>
+
+- Vulnerability research  
+- Malware analysis  
+- Security experimentation  
+
+</details>
+
+</details>
 ### 1.3 Technical & Security Philosophy
 ### 1.4 Resume (Printable Version)
 ### 1.5 Contact Information & Professional Links
