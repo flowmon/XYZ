@@ -121,6 +121,7 @@ I enjoy exploring emerging threats, analyzing vulnerabilities, and researching s
 </details>
 
 </details>
+
 ### 1.3 Technical & Security Philosophy
 ### 1.4 Resume (Printable Version)
 ### 1.5 Contact Information & Professional Links
