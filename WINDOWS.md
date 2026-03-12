@@ -27,49 +27,69 @@ This eventually led to the release of Windows 1.0 in 1985, which ran on top of M
 <details>
 <summary>System Error Codes (0-499)</summary>
 
+https://docs.microsoft.com/en-us/windows/win32/debug/system-error-codes--0-499-
+
 </details>
 
 <details>
 <summary>System Error Codes (500-999)</summary>
+
+https://docs.microsoft.com/en-us/windows/win32/debug/system-error-codes--500-999-
 
 </details>
 
 <details>
 <summary>System Error Codes (1000-1299)</summary>
 
+https://docs.microsoft.com/en-us/windows/win32/debug/system-error-codes--1000-1299-
+
 </details>
 
 <details>
 <summary>System Error Codes (1300-1699)</summary>
+
+https://docs.microsoft.com/en-us/windows/win32/debug/system-error-codes--1300-1699-
 
 </details>
 
 <details>
 <summary>System Error Codes (1700-3999)</summary>
 
+https://docs.microsoft.com/en-us/windows/win32/debug/system-error-codes--1700-3999-
+
 </details>
 
 <details>
 <summary>System Error Codes (4000-5999)</summary>
+
+https://docs.microsoft.com/en-us/windows/win32/debug/system-error-codes--4000-5999-
 
 </details>
 
 <details> 
 <summary>System Error Codes (6000-8199)</summary>
 
+https://docs.microsoft.com/en-us/windows/win32/debug/system-error-codes--6000-8199-
+
 </details>
 
 <details>
 <summary>System Error Codes (8200-8999)</summary>
+
+https://docs.microsoft.com/en-us/windows/win32/debug/system-error-codes--8200-8999-
 
 </details>
 
 <details>
 <summary>System Error Codes (9000-11999)</summary>
 
+https://docs.microsoft.com/en-us/windows/win32/debug/system-error-codes--9000-11999-
+
 </details>
 
 <details>
 <summary>System Error Codes (12000-15999)</summary>
+
+https://docs.microsoft.com/en-us/windows/win32/debug/system-error-codes--12000-15999-
 
 </details>
