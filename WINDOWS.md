@@ -25,39 +25,31 @@ This eventually led to the release of Windows 1.0 in 1985, which ran on top of M
 ## Error Index
 
 <details>
-  
 <summary>System Error Codes (0-499)</summary>
-
+  
+<details>
 <summary>System Error Codes (500-999)</summary>
 
 <details>
-  
 <summary>System Error Codes (1000-1299)</summary>
 
 <details>
-  
 <summary>System Error Codes (1300-1699)</summary>
 
 <details>
-  
 <summary>System Error Codes (1700-3999)</summary>
 
 <details>
-  
 <summary>System Error Codes (4000-5999)</summary>
 
-<details>
-  
+<details> 
 <summary>System Error Codes (6000-8199)</summary>
 
 <details>
-  
 <summary>System Error Codes (8200-8999)</summary>
 
 <details>
-  
 <summary>System Error Codes (9000-11999)</summary>
 
 <details>
-  
 <summary>System Error Codes (12000-15999)</summary>
