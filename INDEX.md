@@ -24,8 +24,16 @@
 <summary>Expand</summary>
 
 ### 1.1 About Me
+- I am an aspiring cybersecurity professional with a strong interest in defensive security, threat analysis, and system hardening. My focus is on understanding how systems fail, how attackers exploit them, and how to build resilient infrastructure capable of detecting and withstanding real-world threats.
+
+My interest in cybersecurity grew from a deep curiosity about computers and how they work. As a teenager, I would often take apart my own PC and reassemble it simply to understand its components and functionality. From carefully repasting the CPU to hearing the click of RAM locking into the DIMM slots, these experiences helped develop a strong appreciation for the systems that power modern technology.
+
+Much of my knowledge has been developed through practical experience, including security labs, independent research, troubleshooting, and hands-on experimentation with environments commonly used in cybersecurity operations.
+
+My goal is to contribute to organizations that value a strong security culture, continuous learning, and responsible innovation, while helping protect critical infrastructure from emerging cyber threats.
+
 ### 1.2 Career Interests
-- Blue Team / Red Team / Purple / SecEng / Research
+#### BlueTeam
 ### 1.3 Technical & Security Philosophy
 ### 1.4 Resume (Printable Version)
 ### 1.5 Contact Information & Professional Links
