@@ -11,3 +11,19 @@ Not the kind of window you open for fresh air — but Microsoft Windows, the ope
 This eventually led to the release of Windows 1.0 in 1985, which ran on top of MS-DOS and introduced many of the graphical concepts that would shape future versions of the operating system.
 
 
+
+
+
+
+
+
+
+
+
+
+
+## Error Index
+
+<details>
+  
+<summary>System Error Codes (0-499)</summary>
